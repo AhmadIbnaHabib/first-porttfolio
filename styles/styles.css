@@ -146,5 +146,125 @@ main{
 
 }
 
+.what{
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+}
+
+.have{
+    color: #757575;
+}
+
+.section{
+    text-align: center;
+    margin: 0 550px 0 550px;
+}
+
+.icon{
+    display: flex;
+    margin: 50px 400px ;
+    gap: 24px;
+    padding: 30px;
+}
+.sha{
+    /* border: 1px solid; */
+    box-shadow: 0 6px 50px 0 rgba(0,0,0,0.06);
+    padding: 25px 25px;
+    border-radius: 5px;
+}
+
+.class{
+    display: flex;
+    gap: 24px;
+    margin: 100px 430px ;
+}
+
+.sum{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+}
+
+.cls{
+    gap: 27px;
+}
+
+.edu{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(71, 71, 71, 1);
+    margin-bottom: 30px;
+}
+
+.du{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(71, 71, 71, 1);;
+    margin-bottom: 10px;
+}
+
+.d{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-top: 10px;
+}
+
+.b{
+    color: #757575;
+
+}
+
+.t{
+    background-color: #FFF8F3;
+    display: flex;
+    padding-right: 420px;
+    padding-left: 420px;
+    gap: 100px;
+}
+
+.l{
+    color: #181818;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.e{
+    color: #474747;
+    margin-top: 20px;
+}
+.footer img{
+}
 
 
+.dum{
+    margin-right: 20px;
+}
+
+.c3{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+
+.fom{
+    /* display: inline-block; */
+    width: 460px;
+    height: 60px;
+    margin-bottom: 24px;
+    border: none;
+}
+
+.fo{
+    width: 460px;
+    height: 180px;
+    border: none;
+
+}
+
+.bt{
+    margin-top: 25px;
+}
